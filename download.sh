@@ -6,7 +6,7 @@ set -e
 # Copyright (C) 2021 picodotdev
 
 GITHUB_USER="bigal"
-BRANCH="master"
+BRANCH="main"
 GITHUB_REPO="alis-conf"
 
 while getopts "u:" arg; do

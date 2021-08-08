@@ -16,8 +16,8 @@ curl -sL https://bit.ly/2F3CATp | bash                                          
 Download the replacement `.conf` files
 
 ```sh
-curl -sL https://raw.githubusercontent.com/bigal/alis-conf/master/download.sh | bash # Download alis conf files
-curl -sL https://bit.ly/TBA | bash                                               # Alternative download URL with URL shortenerl 
+curl -sL https://raw.githubusercontent.com/bigal/alis-conf/main/download.sh | bash # Download alis conf files
+curl -sL https://bit.ly/3yx15UV | bash                                               # Alternative download URL with URL shortenerl 
 ```
 
 ### Reference
