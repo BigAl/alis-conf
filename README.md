@@ -6,14 +6,7 @@ It is an addition to original work by [picodotdev](https://github.com/picodotdev
 
 ## Usage
 
-Download the original [alis](https://github.com/picodotdev/alis)
-
-```sh
-curl -sL https://raw.githubusercontent.com/picodotdev/alis/master/download.sh | bash # Download alis scripts
-curl -sL https://bit.ly/2F3CATp | bash                                               # Alternative download URL with URL shortenerl 
-```
-
-Download the replacement `.conf` files
+Download the original [alis](https://github.com/picodotdev/alis) and the replacement `.conf` files
 
 ```sh
 curl -sL https://raw.githubusercontent.com/bigal/alis-conf/main/download.sh | bash # Download alis conf files
