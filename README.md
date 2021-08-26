@@ -10,7 +10,7 @@ Download the original [alis](https://github.com/picodotdev/alis) and the replace
 
 ```sh
 curl -sL https://raw.githubusercontent.com/bigal/alis-conf/main/download.sh | bash # Download alis conf files
-curl -sL https://bit.ly/3yx15UV | bash                                               # Alternative download URL with URL shortenerl 
+curl -sL https://bit.ly/38gOrhC | bash                                               # Alternative download URL with URL shortenerl 
 ```
 
 ### Reference
