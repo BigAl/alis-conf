@@ -6,12 +6,12 @@ set -e
 # Copyright (C) 2021 picodotdev
 
 GITHUB_USER="bigal"
-BRANCH="main"
+BRANCH="budgie"
 GITHUB_REPO="alis-conf"
 
 # Download the alis files
 
-curl -sL https://raw.githubusercontent.com/picodotdev/alis/master/download.sh | bash
+curl -sL https://raw.githubusercontent.com/bigal/alis/budgie/download.sh | bash
 
 while getopts "u:" arg; do
   case ${arg} in
