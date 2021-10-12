@@ -1,6 +1,6 @@
 # alis-conf
 
-This is my opinionated/personal alias.conf configuration file. Nothing extension changes to Australian locale and default to lvm.
+This is my opinionated/personal alias.conf configuration file. Noteing changes to Australian locale and default to lvm.
 
 It is an addition to original work by [picodotdev](https://github.com/picodotdev/alis) and as such does run standalone.
 
