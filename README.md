@@ -1,6 +1,13 @@
 # alis-conf
 
-This is my opinionated/personal alias.conf configuration file. Noteing changes to Australian locale and default to lvm.
+This is my opinionated/personal alias.conf configuration file. 
+
+Changes of note:
+- Australian locale 
+- lvm
+- kde
+- nvme1n1
+- a bunch of softwafe I use
 
 It is an addition to original work by [picodotdev](https://github.com/picodotdev/alis) and as such does run standalone.
 
